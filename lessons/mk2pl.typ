@@ -31,7 +31,7 @@ M: "Mistrz Klawiatury II"
  :L28 "28 Nowa litera: q"
  :L29 "29 Nowa litera: x"
  :L30 "30 Nowa litera: v"
- :L31 "31 Polskie litery: ą, ś, ę"
+ :L31 "31 Polskie litery: ą ś ę"
  :L32 "32 Polskie litery: ż ź ć"
  :L33 "33 Polskie litery: ł ó ń"
  :L34 "34 Wielkie polskie litery"
@@ -41,14 +41,14 @@ M: "Mistrz Klawiatury II"
  :L38 "38 Cyfra 3 i znak #"
  :L39 "39 Cyfra 0 i prawy nawias"
  :L40 "40 Cyfry 5 i 6 oraz znaki % i ^"
- :L41 "41 Cyfry 7 i 8 oraz znaki & I *"
+ :L41 "41 Cyfry 7 i 8 oraz znaki & i *"
  :L42 "42 Cyfry 1 i 2 oraz wykrzyknik i znak @"
  :L43 "43 Znaki - _ + ="
  :L44 "44 Znaki \ (backslash) i |"
  :L45 "45 Znaki < >"
- :L46 "46 Część numeryczna: 4,5,6 i +"
- :L47 "47 Część numeryczna: 7, 8, 9, i -"
- :L48 "48 Część numeryczna: 1, 2, 3"
+ :L46 "46 Część numeryczna: 4 5 6 +"
+ :L47 "47 Część numeryczna: 7 8 9 -"
+ :L48 "48 Część numeryczna: 1 2 3"
  :L49 "49 Część numeryczna: 0 i kropka dziesiętna"
  :L50 "50 Część numeryczna: znaki / i *"
 
@@ -246,7 +246,7 @@ B:14 Nowy znak: przecinek
 #corr=90.0
 #words=0
 #chars=428
-#add=,
+#add=
 D:,,, ,,, kkk kkk ,,, ,,, kkk ,,, kkk ,,, ,,, ,l; ;l, ,lk kl, k,k ,k, f,f ,f, k,k l,l ;,; l,l k,k
  :l,l ;,; ,l, ,le kil, lok, kol, loki, koki, lik, kok, jak, jaki, flaki, klik, koja, flak, lak,
  :tok, tyka, soli, kij, gratka, koso, boso, tli, to, frak, kartki, gwarki, wartki, karki, alki,
