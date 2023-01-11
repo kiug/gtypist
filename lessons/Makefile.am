@@ -68,6 +68,7 @@ pkgdata_DATA =  gtypist.typ \
 		ktru_long.typ \
 		ktru_slava.typ \
 		ktsi.typ \
-		kttr.typ
+		kttr.typ \
+		mk2pl.typ
 
 EXTRA_DIST= $(pkgdata_DATA)
