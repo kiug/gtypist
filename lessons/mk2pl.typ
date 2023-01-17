@@ -1,6 +1,6 @@
 *:MENU
 B: "Mistrz Klawiatury II"
-M: "Mistrz Klawiatury II"
+M: ""
  :L01 "01 Litery: a s d f"
  :L02 "02 Nowe litery: j k l ;"
  :L03 "03 Połączenie rąk"
@@ -31,7 +31,7 @@ M: "Mistrz Klawiatury II"
  :L28 "28 Nowa litera: q"
  :L29 "29 Nowa litera: x"
  :L30 "30 Nowa litera: v"
- :L31 "31 Polskie litery: ą, ś, ę"
+ :L31 "31 Polskie litery: ą ś ę"
  :L32 "32 Polskie litery: ż ź ć"
  :L33 "33 Polskie litery: ł ó ń"
  :L34 "34 Wielkie polskie litery"
@@ -41,14 +41,14 @@ M: "Mistrz Klawiatury II"
  :L38 "38 Cyfra 3 i znak #"
  :L39 "39 Cyfra 0 i prawy nawias"
  :L40 "40 Cyfry 5 i 6 oraz znaki % i ^"
- :L41 "41 Cyfry 7 i 8 oraz znaki & I *"
+ :L41 "41 Cyfry 7 i 8 oraz znaki & i *"
  :L42 "42 Cyfry 1 i 2 oraz wykrzyknik i znak @"
  :L43 "43 Znaki - _ + ="
  :L44 "44 Znaki \ (backslash) i |"
  :L45 "45 Znaki < >"
- :L46 "46 Część numeryczna: 4,5,6 i +"
- :L47 "47 Część numeryczna: 7, 8, 9, i -"
- :L48 "48 Część numeryczna: 1, 2, 3"
+ :L46 "46 Część numeryczna: 4 5 6 +"
+ :L47 "47 Część numeryczna: 7 8 9 -"
+ :L48 "48 Część numeryczna: 1 2 3"
  :L49 "49 Część numeryczna: 0 i kropka dziesiętna"
  :L50 "50 Część numeryczna: znaki / i *"
 
@@ -227,7 +227,7 @@ D:ttt ttt fff ttt fff ttt fff tttt ffff tttt ffff tt ff tt ff ftf ftf ftf ftf tf
  :aktorka terakota atest trener atrium tektura tu
 
 *:L13
-B:13 Nowa litera: y 
+B:13 Nowa litera: y
 #htmlinst=courses\full\LH_0013.htm
 #speed=50
 #corr=80.0
@@ -251,7 +251,7 @@ D:,,, ,,, kkk kkk ,,, ,,, kkk ,,, kkk ,,, ,,, ,l; ;l, ,lk kl, k,k ,k, f,f ,f, k,
  :l,l ;,; ,l, ,le kil, lok, kol, loki, koki, lik, kok, jak, jaki, flaki, klik, koja, flak, lak,
  :tok, tyka, soli, kij, gratka, koso, boso, tli, to, frak, kartki, gwarki, wartki, karki, alki,
  :falki, fraki, khaki, hak, rak, wrak, ssak, dok, rok, wartki, kratki, klastry, kasty, kurtka,
- :furtka, lurka, kil, oko, spoko, kot, wiotka, kotka,  
+ :furtka, lurka, kil, oko, spoko, kot, wiotka, kotka,
 
 *:L15
 B:15 Nowa litera: z
@@ -281,7 +281,7 @@ D:... ... ;;; ;;; .... ;;;; ... ;;; ... ;;; ... ;;; ... ;; .. ;.; ;.; ;.; ;.; .;
  :;.; .;. .;. ;.; ;.; .;. l.l .l. l.l .l. l.l .l. l.l k.k .k. k.k .k. j.j .j. j.j .j. l.l ;.; k.k
  :k.k j.j e.e j.j i.i k.k l.l ;.; i.i j.j l.l e.e ;.lk .;l ..; l.l;. k.k. ..kl. .ik. kl.. .kl. ..
  :k.. .i.kl .; mak. lok. lik. klik, kok, lok. jaki, karki, kark. fraki, frak. lalki, lalka. kalki,
- :kalka. znaki, znak. 
+ :kalka. znaki, znak.
 
 *:L17
 B:17 Nowa litera: c
@@ -428,7 +428,7 @@ B:26 Znak zapytania i ukosnik (slash)
 D:;/; ;/; ;/; ;/; ;?; ;?; ;?; ;?; /l/ /l/ /l/ /k/ /k/ /k/ /j/ /j/ /j/ ?l? ?l? ?l? ?k? ?k? ?k? ?j?
  :?j? ?j? k/l/j/l l/a/f/s 1/2 1/4 1/3 3/4 3m/sek. 50m/min. 30km/godz. 2300zł/m2 900PLN/ar 5000DM/m
  :Co? Ile? 500? Dlaczego? Komu? Kiedy? Dawno? Po co? Którędy? Z kim? Czym? Jak? Gdzie? Czego?
- :Jaką? Daleko? Ile do końca? Blisko? Już?    
+ :Jaką? Daleko? Ile do końca? Blisko? Już?
 
 *:L27
 B:27 Nawiasy kwadratowe i klamrowe
@@ -455,7 +455,7 @@ B:28 Nowa litera: q
 D:qqq qqq aaa qqq aaa qqqq aaaa qq aa qq aa qq aaa qqq aaa qq aqa aqa qaq qaq aqa qaq awq qwa awq
  :qwa awq qwq wqw qaw qaw sqs qsq dqd fqf rqr eqe wqw qaw qsd fqa cqa zqa qza zaq qaz Qas qwe Qas
  :qed sqa Qfj kqa dqw ceq feq daq qua Que qwe qua Quake Quebec Quo Vadis Queen Aqua Qui pro quo
- :Quasimodo ICQ 
+ :Quasimodo ICQ
 
 *:L29
 B:29 Nowa litera: x
@@ -548,13 +548,13 @@ B:35 Używanie klawisza Caps Lock.
 #corr=95.0
 #words=0
 #chars=508
-#add= 
+#add=
 D:asad ASAD sas SAS desa DESA klasa KLASA nasza NASA wrona WRON studia KUL Lublin; partia NSDAP,
  :sygnał SOS, agencja CIA, New York USA, odbiorca: UNICEF, partia SLD; policja FBI, Ministarstwo
  :MON, MO; organizacja KOMINTERN,  Mickiewicz: "PAN TADEUSZ"; Wyspiański: "WESELE"; Shakespeare:
  :"BURZA" Lem: "WIZJA LOKALNA" planeta: ENTEROPIA kraj: ATLANTYDA rozdz.1: "WPROWADZENIE";
  :rozdz.2: "ZAGAJENIE"; rozdz.3: "ZAKOŃCZENIE"; tytuł: "PARADYGMATYKA"; dziedzina: MNIEMANOLOGIA
- :STOSOWANA; prekursor: JAN STANISŁAWSKI.  
+ :STOSOWANA; prekursor: JAN STANISŁAWSKI.
 
 *:L36
 B:36 Cyfra 4 i znak dolara
@@ -606,7 +606,7 @@ B:39 Cyfra 0 i prawy nawias
 D:l0l l0l l0l l0l l0l l0l l0l 0l0 0l0 0l0 0l0 0l0 l0l l0l l0l lo0 0ol lo0 0ol l0o l0o o0l o0l o0o
  :o0o lo0 0ol lo0 0ol l0l lo0 0ol 0tl ly0 0ol li0 0il lo0 lj0 0jl ll0 oi0 0io o0u 0o0 )0) 0)0 0)0
  :)0) (0) (0) (9) (9) (90) (990) (909) (loki) (klik) (Pilsko) (9 kilo) (90 mil) (490 km) (9039 m)
- :((90*9)*904) (937 min.) (4 minuty) (koniec za 3 sek.) 
+ :((90*9)*904) (937 min.) (4 minuty) (koniec za 3 sek.)
 
 *:L40
 B:40 Cyfry 5 i 6 oraz znaki % i ^
@@ -633,7 +633,7 @@ D:j8j j8j j8j j8j j8j 8j8 8j8 8j8 8j8 j8j j8j j8j 8j8 8j8 8j8 j7j j7j j7j j7j j7
  :7j7 7j7 j7j j7j j7j 7j7 j87j j78j j87j j87j j78j j87j j87j j78j j87j j87j j87j 87yj ju8 ju7 8uj
  :7uj ju87 ju78 juy7 jur8 j8k4 j8h7 jk48 kj84 487 j&j 7&j j*j j*j 89*98 77*89 56*769 &78 &89 &67
  :7*7 8*8 9*99 s3d4 f56 j78 k9l0 s34567890l l0k9 j87 f65 d4s3 09876543 567 DM345 78$ 5,79zł &22
- :349,99$ 78,99DM 78% Tom&Co. J&J K&Sons 
+ :349,99$ 78,99DM 78% Tom&Co. J&J K&Sons
 
 *:L42
 B:42 Cyfry 1 i 2 oraz wykrzyknik i znak @
@@ -660,7 +660,7 @@ B:43 Znaki - _ + =
 D:;-; ;-; ;-; ;-; ;=; ;=; ;=; ;=; -;- -;- =;= =;= ;_; ;_; ;_; ;_; ;+; ;+; ;+; ;+; p-p=0; p+p=2p;
  :_p+_p=2_p; 90-5=85; 909=90=999; 90-1=81; st=90; lp=90+809; stp=987-90+958-9+99;
  :(90-80)*(89+99)=1880; (9x+8y-7z)*18=989; ((a+b)*8)-7=11; dziecko+zapałki=pożar;
- :przychód-koszty=dochód; dochód-podatek=bieda; pożar-zapałki=dziecko;  
+ :przychód-koszty=dochód; dochód-podatek=bieda; pożar-zapałki=dziecko;
 
 *:L44
 B:44 Znaki \ (backslash) i |
@@ -673,7 +673,7 @@ B:44 Znaki \ (backslash) i |
 D:;\; ;\; ;\; ;\; ;|; ;|; ;|; ;|; \l\ \l\ \l\ \k\ \k\ \k\ \j\ \j\ \j\ |l| |l| |l| |k| |k| |k| |j|
  :|j| |j| k\l\j\l l\a\f\s |5| |90| |56| c:\dok a:\setup d:\backup e:\start c:\windows\system
  :c:windows\pulpit c:\Moje Dokument\Listy c:\Program Files\Mistrz f:\install
- :d:\programs\gry\edukacyjne\ns\bomber\bomber.exe 
+ :d:\programs\gry\edukacyjne\ns\bomber\bomber.exe
 
 *:L45
 B:45 Znaki < >
@@ -686,7 +686,7 @@ B:45 Znaki < >
 D:k,<k k,<k k,<k k,<k l.>l l.>l l.>l l.>l <k> <k> <k> <k> <l> <l> <l> <l> <kilo> <mil> <metr>
  :<makro> <LO> <metr> <kody> <program> <java> <5>4 8>2 9>8 x>y y<z 3<4 5<6 a>b b>c n<m p<q a->b
  :b->c <--tu--> <--wpisz--> <--komentarz--> <--opis--> <--początek--> (a->b->c)->(a->c)
- :(a->(b->c))->((a->b)->(a->c)) <--koniec-->   
+ :(a->(b->c))->((a->b)->(a->c)) <--koniec-->
 
 *:L46
 B:46 Część numeryczna: 4,5,6 i +
